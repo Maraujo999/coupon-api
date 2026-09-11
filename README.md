@@ -2,6 +2,8 @@
 
 API Java para cadastrar, consultar e excluir cupons, com regras em objetos de domínio independentes do Spring e do JPA.
 
+Validação: 111 execuções Java, 98,01% de linhas cobertas, núcleo com 100% de linhas/branches e 29/29 mutantes detectados no CI. Consulte o relatório para escopo e evidências.
+
 [Contrato analisado](docs/ANALISE-CONTRATO.md) · [Plano técnico](docs/PLANO-TECNICO.md) · [Testes e TDD](docs/TDD-EXECUCAO.md) · [Validação](docs/VALIDACAO.md)
 
 ## Executar em poucos passos
