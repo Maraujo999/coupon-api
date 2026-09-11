@@ -1,6 +1,6 @@
 # Plano técnico da Coupon API
 
-Preparado em 11/09/2026. Estado: análise e planejamento concluídos; implementação, testes executáveis e publicação ainda não iniciados.
+Preparado em 11/09/2026, antes de codificar. O texto abaixo preserva o plano original; a implementação seguiu estas etapas. Escolhas efetivas e comandos estão no README; resultados de execução estão em VALIDACAO.md e TDD-EXECUCAO.md.
 
 O objetivo é entregar uma solução de nível pleno, fácil de executar e de defender tecnicamente. O diferencial será demonstrar fidelidade às regras, tratamento de falhas e evidência de qualidade. O plano contempla testes escritos antes das classes de produção, implementação incremental, execução real da aplicação, inspeção dos logs e publicação em GitHub com branch e merge para main.
 
