@@ -7,6 +7,8 @@ tmp/
 *.pem
 *.key
 output/
+__pycache__/
+*.pyc
 target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/

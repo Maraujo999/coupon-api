@@ -1,6 +1,6 @@
 # Matriz de testes planejados
 
-Estado inicial em 11/09/2026: todos os cenários abaixo estão planejados, não executados. Nomes de classes são propostas. Escrever os testes antes das classes correspondentes e atualizar resultados com evidência real.
+Esta é a matriz preparada antes da implementação, em 11/09/2026. Os nomes abaixo foram propostas de organização; alguns cenários foram reunidos nas mesmas classes ou em testes parametrizados. Consulte TDD-EXECUCAO.md para as classes efetivamente criadas e VALIDACAO.md para resultados medidos. A matriz não substitui o relatório de execução.
 
 Os casos devem testar comportamento e limites, evitando testes de getters ou de detalhes privados. Utilizar fixtures pequenas, BigDecimal a partir de strings, Clock fixo e dados independentes. Comparar JSON estruturalmente, sem depender da ordem das propriedades.
 
